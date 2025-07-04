@@ -1,7 +1,7 @@
 # Análisis y Modelado de Secuestros en Colombia
 
 ## Descripción  
-Este repositorio contiene el código y los datos para un estudio exhaustivo de los secuestros en Colombia (1996–2025). Se parte de series de tiempo mensuales y anuales, se normalizan los conteos mediante tasas por 100 000 habitantes, se incorporan proxies de violencia armada (masacres, asesinatos selectivos, categorías de conflicto) y variables institucionales (CAIs, efectivos de policía). Finalmente, se comparan modelos de panel (Regresion con Efectos Fijos), machine learning (XGBoost) y deep learning (red neuronal) para predecir el número de secuestros, junto a interpretaciones SHAP para explicar sus resultados.
+Este repositorio contiene el código y los datos para un estudio exhaustivo de los secuestros en Colombia (1996–2025). Se parte de series de tiempo mensuales y anuales, se normalizan los conteos mediante tasas por 100 000 habitantes, se incorporan proxies de violencia armada (masacres, asesinatos selectivos, categorías de conflicto) y variables institucionales (CAIs, efectivos de policía). Finalmente, se comparan modelos de panel (Regresion con Efectos Fijos), machine learning (XGBoost) y deep learning (red neuronal) para predecir el número de secuestros, cada modelo se entreno con una busqueda exhaustiva de hiperparametros, junto a interpretaciones SHAP para explicar sus resultados.
 
 
 
