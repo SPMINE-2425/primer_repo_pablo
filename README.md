@@ -26,5 +26,16 @@ Este repositorio contiene el código y los datos para un estudio exhaustivo de l
   - **Red neuronal (PyTorch)** (R² ≈ 0.89) con 3 capas ocultas que maximizan el R2 demuestra un desempeño igualmente sobresaliente. Con GPU potente, ambos enfoques (ML y DL) entrenan rápidamente, si bien XGBoost parece cerca de su límite con los datos actuales, la red aún podría beneficiarse de búsquedas bayesianas de hiperparámetros.
 - **SHAP**: la categoría “Levemente afectados y persistente” y la tasa por 100 000 hab. son las características más influyentes en la predicción de secuestros.
 
+
+## Instalación
+
+Para obtener el código y los datos en tu equipo, clona el repositorio y accede a la carpeta del proyecto:
+
+```bash
+git clone https://github.com/SPMINE-2425/primer_repo_pablo.git
+cd primer_repo_pablo
+```
+
+
 ## Licencia  
 Este proyecto se distribuye bajo la licencia MIT
