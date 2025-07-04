@@ -9,7 +9,7 @@ Este repositorio contiene el código y los datos para un estudio exhaustivo de l
 
 | File / Notebook | Proposito |
 |-----------------|---------|
-| **`1. Primer_analisis_exploratorio.ipynb`** | Un analisis de la base de secuestos solitaria. Cuenta con Widgets interactivos y analisis por municipios y departamentos, tanto estastico como geoespacial. |
+| **`1. Primer_analisis_exploratorio.ipynb`** | Un analisis de la base de secuestos en en solitario. Cuenta con Widgets interactivos y analisis por municipios y departamentos, tanto estastico como geoespacial. |
 | **`2. Analisis_compuesto.ipynb`** | En este script creamos la tasa de secuestros por 100k habitantes y incluimos varias variables para capturar la violencioa en el pais asi como la fuerza institucional. |
 | **`3. Analisis Avanzado.ipynb`** | En este script usamos la base creada en scripts 1-2 y analizamos correlaciones, analisis mediante PCA asi como regresiones econometricas de Datos Panel y modelos de Machine y Deep Learning con XGBoost y PyTorch (cada modelo tiene una busqueda de hiperparametros). |
 | **`construccion_bases_series.py`** | Este script contiene 4 funciones que se utilizan a lo largo del proyecto para limpiar y crear los datos en los formatos requeridos. |
