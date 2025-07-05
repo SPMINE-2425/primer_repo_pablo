@@ -1,9 +1,9 @@
 [project]
-name = "proyecto"
+name = "Proyecto 1 Seminario Programacion"
 version = "0.1.0"
-description = ""
+description = "Exploracion y modelamiento de los secuestos en Colombia"
 authors = [
-    {name = "julicastanoso",email = "julianaccastano2004@gmail.com"}
+    {name = "Pablo Reyes",email = "alejogranados229@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.11"
